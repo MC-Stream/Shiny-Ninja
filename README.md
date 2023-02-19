@@ -3,6 +3,7 @@ Programs Testing different skills and skill levels.
 
 Using data and programing to solve financial problems with available technology.
 
+---
 ### Python/Pandas via VSC and/or Jupyter
 
 [Loan Analyzer](https://github.com/MC-Stream/Loan-Analyzer)
@@ -30,10 +31,16 @@ Using data and programing to solve financial problems with available technology.
 
 [Machine Learning Trading Bot](https://github.com/MC-Stream/Machine-Learning-Trading-Bot)
 
-### Machine Learning(Supervised, Unsupervised, AI)
+---
+### Machine Learning(Supervised, Unsupervised, Neural Networks)
 
+[Credit Risk Classification](https://github.com/MC-Stream/Credit-Risk-Classification)
 
+[Venture Funding with Deep Learning](https://github.com/MC-Stream/Venture-Funding-with-Deep-Learning)
 
+[Machine Learning Trading Bot](https://github.com/MC-Stream/Machine-Learning-Trading-Bot)
+
+---
 ### Google Colab
 
 [Forecasting Net Prophet](https://github.com/MC-Stream/Forecasting-Net-Prophet)
