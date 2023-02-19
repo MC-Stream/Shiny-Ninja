@@ -1,5 +1,6 @@
 # Shiny-Ninja
 Programs Testing different skills and skill levels.
+
 Using data and programing to solve financial problems with available technology.
 
 ### Python/Pandas via VSC and/or Jupyter
