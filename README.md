@@ -1,7 +1,11 @@
 # Shiny-Ninja
 Programs Testing different skills and skill levels.
 
-Using data and programing to solve financial problems with available technology.
+Using data and programing to solve financial and quantitative analysis with available technology.
+
+Running financial simulations.
+
+Collaborative work with fellow programmers to create basic web applications.
 
 ---
 ### Python/Pandas via VSC and/or Jupyter
