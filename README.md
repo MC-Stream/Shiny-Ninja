@@ -35,6 +35,12 @@ Collaborative work with fellow programmers to create basic web applications.
 
 [Machine Learning Trading Bot](https://github.com/MC-Stream/Machine-Learning-Trading-Bot)
 
+[RoboAdvisor with AWS Lambda](https://github.com/MC-Stream/RoboAdvisor-with-AWS)
+
+[PyChain Decentralized Ledger](https://github.com/MC-Stream/PyChain-Decentralized-Ledger)
+
+[Fintech Finder](https://github.com/MC-Stream/Fintech-Finder)
+
 ---
 ### Machine Learning(Supervised, Unsupervised, Neural Networks)
 
@@ -45,6 +51,30 @@ Collaborative work with fellow programmers to create basic web applications.
 [Machine Learning Trading Bot](https://github.com/MC-Stream/Machine-Learning-Trading-Bot)
 
 ---
+### BlockChain and Smart Contracts
+
+[PyChain Decentralized Ledger](https://github.com/MC-Stream/PyChain-Decentralized-Ledger)
+
+[Joint Savings via Solidity](https://github.com/MC-Stream/Joint-Savings)
+
+---
+### Solidity
+
+[Joint Savings via Solidity](https://github.com/MC-Stream/Joint-Savings)
+
+---
+### Streamlit
+
+[PyChain Decentralized Ledger](https://github.com/MC-Stream/PyChain-Decentralized-Ledger)
+
+[Fintech Finder](https://github.com/MC-Stream/Fintech-Finder)
+
+---
 ### Google Colab
 
 [Forecasting Net Prophet](https://github.com/MC-Stream/Forecasting-Net-Prophet)
+
+---
+### AWS Lambda
+
+[RoboAdvisor with AWS Lambda](https://github.com/MC-Stream/RoboAdvisor-with-AWS)
