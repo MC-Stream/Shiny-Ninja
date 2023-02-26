@@ -1,4 +1,4 @@
-# Shiny-Ninja
+# Skill Categorization
 Programs Testing different skills and skill levels.
 
 Using data and programing to solve financial and quantitative analysis with available technology.
