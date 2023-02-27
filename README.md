@@ -41,6 +41,9 @@ Collaborative work with fellow programmers to create basic web applications.
 
 [Fintech Finder](https://github.com/MC-Stream/Fintech-Finder)
 
+
+[Project Debt Free](https://github.com/Th33na/project-debt-free)
+
 ---
 ### Machine Learning(Supervised, Unsupervised, Neural Networks)
 
@@ -56,6 +59,13 @@ Collaborative work with fellow programmers to create basic web applications.
 [PyChain Decentralized Ledger](https://github.com/MC-Stream/PyChain-Decentralized-Ledger)
 
 [Joint Savings via Solidity](https://github.com/MC-Stream/Joint-Savings)
+
+---
+### SQL
+
+[Web Application for an ETF Analyzer](https://github.com/MC-Stream/Web-Application-for-an-ETF-Analyzer)
+
+[Project Debt Free](https://github.com/Th33na/project-debt-free)
 
 ---
 ### Solidity
@@ -78,3 +88,8 @@ Collaborative work with fellow programmers to create basic web applications.
 ### AWS Lambda
 
 [RoboAdvisor with AWS Lambda](https://github.com/MC-Stream/RoboAdvisor-with-AWS)
+
+---
+### Collaborations
+
+[Project Debt Free](https://github.com/Th33na/project-debt-free)
