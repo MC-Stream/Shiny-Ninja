@@ -44,6 +44,10 @@ Collaborative work with fellow programmers to create basic web applications.
 
 [Project Debt Free](https://github.com/Th33na/project-debt-free)
 
+[Project Fakers](https://github.com/Th33na/project-fakers)
+
+[Cryzelle](https://github.com/drew94591/cryzelle)
+
 ---
 ### Machine Learning(Supervised, Unsupervised, Neural Networks)
 
@@ -53,12 +57,16 @@ Collaborative work with fellow programmers to create basic web applications.
 
 [Machine Learning Trading Bot](https://github.com/MC-Stream/Machine-Learning-Trading-Bot)
 
+[Project Fakers](https://github.com/Th33na/project-fakers)
+
 ---
 ### BlockChain and Smart Contracts
 
 [PyChain Decentralized Ledger](https://github.com/MC-Stream/PyChain-Decentralized-Ledger)
 
 [Joint Savings via Solidity](https://github.com/MC-Stream/Joint-Savings)
+
+[Cryzelle](https://github.com/drew94591/cryzelle)
 
 ---
 ### SQL
@@ -79,10 +87,18 @@ Collaborative work with fellow programmers to create basic web applications.
 
 [Fintech Finder](https://github.com/MC-Stream/Fintech-Finder)
 
+[Project Debt Free](https://github.com/Th33na/project-debt-free)
+
+[Project Fakers](https://github.com/Th33na/project-fakers)
+
+[Cryzelle](https://github.com/drew94591/cryzelle)
+
 ---
 ### Google Colab
 
 [Forecasting Net Prophet](https://github.com/MC-Stream/Forecasting-Net-Prophet)
+
+[Project Fakers](https://github.com/Th33na/project-fakers)
 
 ---
 ### AWS Lambda
@@ -93,3 +109,7 @@ Collaborative work with fellow programmers to create basic web applications.
 ### Collaborations
 
 [Project Debt Free](https://github.com/Th33na/project-debt-free)
+
+[Project Fakers](https://github.com/Th33na/project-fakers)
+
+[Cryzelle](https://github.com/drew94591/cryzelle)
